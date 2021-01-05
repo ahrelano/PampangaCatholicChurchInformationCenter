@@ -1,0 +1,1 @@
+<h1><?php echo date('M d, Y g:i:s A'); ?></h1>
